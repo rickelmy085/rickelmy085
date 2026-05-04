@@ -19,11 +19,6 @@
   <img src="https://static.wikia.nocookie.net/lpunb/images/e/eb/Gopher_Bombado.jpg" width="100" height="100" />
 </p>
 
-Para atualizar as estatísticas para o seu perfil (rickelmy085), precisamos alterar o parâmetro username em cada link. Como você está usando o tema azul no topo do perfil, também ajustei as cores dos gráficos para tons de azul e ciano, combinando com o cabeçalho.
-
-Aqui está o código atualizado:
-
-HTML
 <div align="center">
   <h2>📊 Minhas Estatísticas</h2>
   <!-- Streak Stats -->
