@@ -42,9 +42,9 @@
 
 <div align="center">
   <h2>Entre em contato comigo</h2>
-  <a href="mailto:rfeitosamalafaia@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=rfeitosamalafaia@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=%23D30445" alt="Gmail Badge">
+</a>&nbsp;
   <a href="https://www.instagram.com/rickelmy.feitosxz?igsh=cXVwNWw2ajF4OWVo&utm_source=qr" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
