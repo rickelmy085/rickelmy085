@@ -4,6 +4,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ADD8E6&height=110&section=header&v=4" width="100%"/>
 </p>
 
+<h1 align="center" style="margin-top: -35px;">
+  <span style="vertical-align: middle;">Bem-vindo!!!🌵</span>
+</h1>
+
 <p align="center"> 
   Olá!! Meu nome é <b>Rickelmy Feitosa</b>, tenho 16 anos e moro em São Paulo. Estou atualmente no ensino médio, também estudando Desenvolvimento de Sistemas na escola ETEC Camargo Aranha. Estou sempre tentando aprender mais sobre programação! Atualmente estudo por fora da ETEC as linguagem Python e Golang. 
 </p>
