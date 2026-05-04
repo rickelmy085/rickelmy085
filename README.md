@@ -39,3 +39,14 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/rickelmy085/rickelmy085/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
+
+<div align="center">
+  <h2>Entre em contato comigo</h2>
+  <a href="mailto:rfeitosamalafaia@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.instagram.com/rickelmy.feitosxz?igsh=cXVwNWw2ajF4OWVo&utm_source=qr" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+</div>
