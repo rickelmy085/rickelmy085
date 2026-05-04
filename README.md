@@ -48,5 +48,7 @@
   <a href="https://www.instagram.com/rickelmy.feitosxz?igsh=cXVwNWw2ajF4OWVo&utm_source=qr" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  <a href="https://discord.com/users/903051078189330462" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge" />
+  </a>
 </div>
