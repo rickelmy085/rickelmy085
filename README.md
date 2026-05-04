@@ -38,6 +38,5 @@ HTML
 <br>
 
 <p align="center">
-  <!-- Snake Animation -->
-  <img src="https://github.com/rickelmy085/rickelmy085/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/rickelmy085/rickelmy085/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
