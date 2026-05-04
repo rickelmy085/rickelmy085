@@ -19,13 +19,25 @@
   <img src="https://static.wikia.nocookie.net/lpunb/images/e/eb/Gopher_Bombado.jpg" width="100" height="100" />
 </p>
 
+Para atualizar as estatísticas para o seu perfil (rickelmy085), precisamos alterar o parâmetro username em cada link. Como você está usando o tema azul no topo do perfil, também ajustei as cores dos gráficos para tons de azul e ciano, combinando com o cabeçalho.
 
+Aqui está o código atualizado:
+
+HTML
 <div align="center">
   <h2>📊 Minhas Estatísticas</h2>
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=byMegane&theme=tokyonight&fire=FE7E48&ring=FE7E48&sideNums=FE7E48&stroke=FE7E48&currStreakLabel=FE7E48" />
+  <!-- Streak Stats -->
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=rickelmy085&theme=tokyonight&fire=00ADD8&ring=00ADD8&sideNums=00ADD8&stroke=00ADD8&currStreakLabel=00ADD8" />
   <br>
-  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=byMegane&show_icons=true&theme=tokyonight&border_color=FE7E48&icon_color=FE7E48&title_color=FE7E48&custom_title=Estatísticas%20do%20Rodrigo" />
-  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=byMegane&layout=compact&langs_count=7&theme=tokyonight&border_color=FE7E48&title_color=FE7E48" />
+  <!-- General Stats -->
+  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rickelmy085&show_icons=true&theme=tokyonight&border_color=00ADD8&icon_color=00ADD8&title_color=00ADD8&custom_title=Estatísticas%20do%20Rickelmy" />
+  <!-- Top Langs -->
+  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rickelmy085&layout=compact&langs_count=7&theme=tokyonight&border_color=00ADD8&title_color=00ADD8" />
 </div>
 
 <br>
+
+<p align="center">
+  <!-- Snake Animation -->
+  <img src="https://github.com/rickelmy085/rickelmy085/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
