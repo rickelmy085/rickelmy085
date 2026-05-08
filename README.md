@@ -20,7 +20,7 @@
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="100" alt="Python Logo" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://static.wikia.nocookie.net/lpunb/images/e/eb/Gopher_Bombado.jpg" width="100" height="100" />
+  <img src="gopher.png" width="100" height="100" />
 </p>
 
 <div align="center">
