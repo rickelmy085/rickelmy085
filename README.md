@@ -9,18 +9,20 @@
 </h1>
 
 <p align="center"> 
-  Olá!! Meu nome é <b>Rickelmy Feitosa</b>, tenho 16 anos e moro em São Paulo. Estou atualmente no ensino médio, também estudando Desenvolvimento de Sistemas na escola ETEC Camargo Aranha. Estou sempre tentando aprender mais sobre programação! Atualmente estudo por fora da ETEC a linguagem Golang. 
+  Olá!! Meu nome é <b>Rickelmy Feitosa</b>, tenho 16 anos e moro em São Paulo. Estou atualmente no ensino médio, também estudando Desenvolvimento de Sistemas na escola ETEC Camargo Aranha. Estou sempre tentando aprender mais sobre programação! Atualmente estudo por fora da ETEC a linguagem Golang e Java, tenho conhecimento mais básico em Java e Python, com foco principal em Golang, que é o meu objetivo atual no desenvolvimento backend. 
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </p>
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="100" alt="Python Logo" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="gopher.png" width="100" height="100" />
+  <img src="java.png" width="100" height="100" />
 </p>
 
 <div align="center">
