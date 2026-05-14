@@ -22,7 +22,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="100" alt="Python Logo" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="gopher.png" width="100" height="100" />
-  <img src="java.png" width="100" height="100" />
+  <img src="java_.png" width="100" height="100" />
 </p>
 
 <div align="center">
