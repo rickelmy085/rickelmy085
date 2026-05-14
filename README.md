@@ -53,4 +53,7 @@
   <a href="https://discord.com/users/903051078189330462" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge" />
   </a>
+  <a href="https://www.linkedin.com/in/rickelmy-feitosa" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  </a>
 </div>
