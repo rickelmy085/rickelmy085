@@ -26,11 +26,15 @@
 </p>
 
 <div align="center">
-  <h2>📊 Minhas Estatísticas</h2>
-  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rickelmy085&theme=tokyonight" />
-  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rickelmy085&theme=tokyonight" alt="Most Commit Language" />
+  <h2>Minhas Estatísticas</h2>
+  <!-- Streak Stats -->
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=rickelmy085&theme=tokyonight&fire=00ADD8&ring=00ADD8&sideNums=00ADD8&stroke=00ADD8&currStreakLabel=00ADD8" />
+  <br><br>
+  <!-- General Stats -->
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rickelmy085&theme=tokyonight" />
+  <!-- Top Languages (Most Commits) -->
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rickelmy085&theme=tokyonight" />
 </div>
-
 <br>
 
 <p align="center">
