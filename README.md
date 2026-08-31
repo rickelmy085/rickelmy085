@@ -31,9 +31,9 @@
   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=rickelmy085&theme=tokyonight&fire=00ADD8&ring=00ADD8&sideNums=00ADD8&stroke=00ADD8&currStreakLabel=00ADD8" />
   <br>
   <!-- General Stats -->
-  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rickelmy085&show_icons=true&theme=tokyonight&border_color=00ADD8&icon_color=00ADD8&title_color=00ADD8&custom_title=Estatísticas%20do%20Rickelmy" />
-  <!-- Top Langs -->
-  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rickelmy085&layout=compact&langs_count=7&theme=tokyonight&border_color=00ADD8&title_color=00ADD8" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rickelmy085&show_icons=true&theme=tokyonight&border_color=00ADD8&icon_color=00ADD8&title_color=00ADD8&custom_title=Estat%C3%ADsticas%20do%20Rickelmy" />
+  <!-- Top Langs Fix -->
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickelmy085&layout=compact&langs_count=7&theme=tokyonight&border_color=00ADD8&title_color=00ADD8&hide_border=false" />
 </div>
 
 <br>
