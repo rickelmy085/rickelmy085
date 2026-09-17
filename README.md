@@ -34,15 +34,10 @@
 </p>
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="60" alt="Python Logo" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="gopher.png" width="120" height="120" alt="Gopher - Go" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="java.png" width="130" height="130" alt="Java" />
-</p>
-<p align="center">
-  <b><span style="color: #00ADD8;">🐹 Golang</span></b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b><span style="color: #ED8B00;">☕ Java</span></b>
 </p>
 
 <div align="center">
