@@ -14,18 +14,17 @@
 
 <p align="center"> 
   Tenho <b>16 anos</b>, moro em <b>São Paulo</b> e estudo no <b>ensino médio</b>. Também estou cursando <b>Desenvolvimento de Sistemas</b> na <b>ETEC Camargo Aranha</b>. 🎓<br>
-  Atualmente estudo <b>Golang</b> e <b>Java</b> por fora da ETEC, com conhecimento básico em <b>Python</b> e <b>Java</b>.<br>
+  Atualmente estudo <b>Golang</b> e <b>Java</b> por fora da ETEC.<br>
   Meu foco principal é o <b>desenvolvimento backend</b> com Go! 🔥
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,java,python,css,html,javascript&theme=dark&perline=6" />
+    <img src="https://skillicons.dev/icons?i=go,java,css,html,javascript&theme=dark&perline=5" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
