@@ -37,7 +37,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="gopher.png" width="120" height="120" alt="Gopher - Go" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="java-icon.svg" width="150" height="150" alt="Java" />
+  <img src="java-icon.svg" width="120" height="120" alt="Java" />
 </p>
 
 <div align="center">
