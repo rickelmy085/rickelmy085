@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 60" width="600" height="60">
+  <defs>
+    <clipPath id="clip">
+      <rect x="0" y="0" width="0" height="60">
+        <animate attributeName="width" values="0;600" dur="4s" fill="freeze" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+  </defs>
+  <rect width="600" height="60" fill="#1a1a2e" rx="10"/>
+  <text x="20" y="40" font-family="Fira Code, monospace" font-size="20" fill="#ADD8E6" clip-path="url(#clip)">
+    Olá! Sou Rickelmy Feitosa 👋
+  </text>
+</svg>
