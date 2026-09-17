@@ -37,7 +37,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="gopher.png" width="120" height="120" alt="Gopher - Go" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="java.png" width="150" height="250" alt="Java" />
+  <img src="java.png" width="150" height="350" alt="Java" />
 </p>
 
 <div align="center">
@@ -57,7 +57,7 @@
 <br>
 
 <div align="center">
-  <h2>🎯 Skills</h2>
+  <h2>Skills</h2>
   <table align="center">
     <tr>
       <td align="center" width="160">
@@ -68,11 +68,6 @@
       <td align="center" width="160">
         <b>Java</b><br>
         <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-        <br>⭐⭐⭐
-      </td>
-      <td align="center" width="160">
-        <b>Python</b><br>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
         <br>⭐⭐⭐
       </td>
       <td align="center" width="160">
@@ -107,7 +102,7 @@
 </div>
 
 <div align="center">
-  <h2>👋 Entre em contato comigo</h2>
+  <h2>Entre em contato comigo</h2>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=rfeitosamalafaia@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=%23D30445" alt="Gmail Badge">
   </a>&nbsp;
