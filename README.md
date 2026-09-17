@@ -14,7 +14,7 @@
 
 <p align="center"> 
   Tenho <b>16 anos</b>, moro em <b>São Paulo</b> e estudo no <b>ensino médio</b>. Também estou cursando <b>Desenvolvimento de Sistemas</b> na <b>ETEC Camargo Aranha</b>. 🎓<br>
-  Atualmente estudo <b>Golang</b> e <b>Java</b> por fora da ETEC, com conhecimento básico em <b>Python</b>.<br>
+  Atualmente estudo <b>Golang</b> e <b>Java</b> por fora da ETEC, com conhecimento básico em <b>Python</b> e <b>Java</b>.<br>
   Meu foco principal é o <b>desenvolvimento backend</b> com Go! 🔥
 </p>
 
@@ -34,11 +34,15 @@
 </p>
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="80" alt="Python Logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="60" alt="Python Logo" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="gopher.png" width="80" height="80" />
+  <img src="gopher.png" width="120" height="120" alt="Gopher - Go" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="java.png" width="100" height="100" />
+  <img src="java.png" width="130" height="130" alt="Java" />
+</p>
+<p align="center">
+  <b><span style="color: #00ADD8;">🐹 Golang</span></b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b><span style="color: #ED8B00;">☕ Java</span></b>
 </p>
 
 <div align="center">
@@ -52,7 +56,7 @@
 <br>
 
 <div align="center">
-  <h2>🐍 Contribuições</h2>
+  <h2>Contribuições</h2>
   <img src="https://raw.githubusercontent.com/rickelmy085/rickelmy085/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 <br>
@@ -106,37 +110,6 @@
     </tr>
   </table>
 </div>
-<br>
-
-<div align="center">
-  <h2>💻 Projetos</h2>
-  <table align="center">
-    <tr>
-      <td align="center" width="250">
-        <b>🔥 Em Desenvolvimento</b><br>
-        Projetos em Golang<br>
-        <img src="https://img.shields.io/badge/status-Em_Andamento-ADD8E6?style=for-the-badge" alt="Em Andamento" />
-      </td>
-      <td align="center" width="250">
-        <b>📚 Estudando</b><br>
-        Conceitos de Java<br>
-        <img src="https://img.shields.io/badge/status-Aprendendo-ED8B00?style=for-the-badge" alt="Aprendendo" />
-      </td>
-      <td align="center" width="250">
-        <b>🐍 Python</b><br>
-        Projetos básicos<br>
-        <img src="https://img.shields.io/badge/status-Concluído-3776AB?style=for-the-badge" alt="Concluído" />
-      </td>
-    </tr>
-  </table>
-</div>
-<br>
-
-<div align="center">
-  <h2>📈 Perfil no Dev</h2>
-  <img src="https://devmetrics.dev/profile-card?url=rickelmy085&theme=tokyonight" alt="Dev Metrics" />
-</div>
-<br>
 
 <div align="center">
   <h2>👋 Entre em contato comigo</h2>
@@ -157,8 +130,4 @@
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ADD8E6&height=60&section=footer&v=4" width="100%"/>
-</p>
-
-<p align="center">
-  <i>Feito com 💜 por Rickelmy Feitosa | Tema: Tokyo Night</i>
 </p>
