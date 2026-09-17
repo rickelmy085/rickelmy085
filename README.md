@@ -37,7 +37,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="gopher.png" width="120" height="120" alt="Gopher - Go" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="java.png" width="130" height="130" alt="Java" />
+  <img src="java.png" width="150" height="250" alt="Java" />
 </p>
 
 <div align="center">
