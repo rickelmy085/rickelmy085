@@ -62,7 +62,7 @@
     <tr>
       <td align="center" width="160">
         <b>Golang</b><br>
-        <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+        <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
         <br>⭐⭐⭐⭐
       </td>
       <td align="center" width="160">
